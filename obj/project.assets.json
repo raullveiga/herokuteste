@@ -13123,11 +13123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\~~\\testefacebook\\testefacebook.csproj",
+      "projectUniqueName": "C:\\~~\\testefacebook\\testefacebook.csproj",
       "projectName": "testefacebook",
-      "projectPath": "c:\\~~\\testefacebook\\testefacebook.csproj",
+      "projectPath": "C:\\~~\\testefacebook\\testefacebook.csproj",
       "packagesPath": "C:\\Users\\raull\\.nuget\\packages\\",
-      "outputPath": "c:\\~~\\testefacebook\\obj\\",
+      "outputPath": "C:\\~~\\testefacebook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
